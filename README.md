@@ -43,6 +43,7 @@ Modern and responsive digital portfolio showcasing Samuel Velasco's professional
 
 ## 📁 Project Structure
 
+```text
 portfolio-samuel-velasco/
 ├── index.html
 ├── src/
@@ -80,6 +81,7 @@ portfolio-samuel-velasco/
 ├── vite.config.js
 ├── package.json
 └── README.md
+
 ### 📂 Folder Organization
 
 | Folder | Purpose |
@@ -160,6 +162,8 @@ Portfolio digital moderno y responsive que presenta la experiencia profesional d
 
 ## 📁 Estructura del Proyecto
 
+
+```text
 portfolio-samuel-velasco/
 ├── index.html
 ├── src/
