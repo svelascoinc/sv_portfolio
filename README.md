@@ -81,7 +81,7 @@ portfolio-samuel-velasco/
 ├── vite.config.js
 ├── package.json
 └── README.md
-
+```
 ### 📂 Folder Organization
 
 | Folder | Purpose |
@@ -201,7 +201,7 @@ portfolio-samuel-velasco/
 ├── vite.config.js
 ├── package.json
 └── README.md
-
+```
 ### 📂 Organización de Carpetas
 
 | Carpeta | Proposito |
