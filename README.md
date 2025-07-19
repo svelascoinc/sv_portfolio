@@ -6,7 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-4.5.0-646CFF.svg)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3.7-38B2AC.svg)](https://tailwindcss.com/)
 
-**🌐 Live Demo**: [https://portfolio-samuel-velasco.vercel.app](https://portfolio-samuel-velasco.vercel.app)
+**🌐 Live Demo**: [https://svelasco.vercel.app](https://svelasco.vercel.app)
 
 ---
 
@@ -124,7 +124,7 @@ npm run build    # Production build
 
 **Portafolio profesional interactivo desarrollado en React**
 
-**🌐 Live Demo**:  https://portfolio-samuel-velasco.vercel.app📖 
+**🌐 Live Demo**:  https://svelasco.vercel.app📖 
 
 ---
 
